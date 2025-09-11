@@ -1,6 +1,6 @@
 # Minimalist Diana Yin 🌙
 
-The official Minimalist Diana Yin theme for Chromium-based browsers. A minimalist theme with a color palette inspired by Diana Yin, designed for a serene and elegant browsing experience.
+The official Minimalist Diana Yin theme for Chromium-based browsers. This design pairs a clean, distraction-free interface with a color scheme that reflects the essence of Diana Yin, creating a serene and focused browsing experience.
 
 ![Minimalist Diana Yin Theme Preview](images/preview.png)
 
